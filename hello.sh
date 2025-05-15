@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, Jenkins triggered me  on a GitHub commit!" > output.txt
+echo "Hello, Jenkins triggered me are on a GitHub commit!" > output.txt
 
